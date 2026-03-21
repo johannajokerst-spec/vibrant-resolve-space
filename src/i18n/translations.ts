@@ -127,7 +127,7 @@ export const translations = {
 <h4>General Information</h4>
 <p>The following notes provide a simple overview of what happens to your personal data when you visit this website. Personal data is any data by which you can be personally identified.</p>
 <h4>Data Collection on This Website</h4>
-<p><strong>Who is responsible for data collection on this website?</strong><br/>Data processing on this website is carried out by the website operator: Johanna Jokerst, johanna@workplacemediation.de</p>
+<p><strong>Who is responsible for data collection on this website?</strong><br/>Data processing on this website is carried out by the website operator: Johanna Jokerst, info@workplacemediation.de</p>
 <p><strong>How do we collect your data?</strong><br/>Your data is collected when you provide it to us, for example by contacting us via email. Other data is collected automatically by our IT systems when you visit the website. This is mainly technical data (e.g., internet browser, operating system, or time of page access).</p>
 <h3>2. Hosting</h3>
 <p>This website is hosted externally. The personal data collected on this website is stored on the servers of the host(s). This may include IP addresses, contact requests, meta and communication data, contract data, contact details, names, website accesses, and other data generated via a website.</p>
