@@ -95,7 +95,7 @@ export const translations = {
       en: "Ready to navigate workplace challenges together? I'd love to hear from you.",
       de: "Bereit, gemeinsam die Herausforderungen am Arbeitsplatz zu meistern? Ich freue mich auf Ihre Nachricht.",
     },
-    email: "johanna@workplacemediation.de",
+    email: "info@workplacemediation.de",
   },
   footer: {
     copyright: {
