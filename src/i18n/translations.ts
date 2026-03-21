@@ -45,8 +45,8 @@ export const translations = {
     mediation: {
       title: { en: "Mediation", de: "Mediation" },
       desc: {
-        en: "I am currently undertaking a Certificate of Advanced Studies (CAS) in Mediation — Business Focus, developing advanced mediation, communication and conflict-management competencies tailored to corporate environments. This enables me to support individuals, teams and companies in navigating digital transformation, agile working and rapid change by facilitating constructive dialogue, building empathy, and enabling sustainable conflict resolution.",
-        de: "Ich absolviere derzeit ein Certificate of Advanced Studies (CAS) in Mediation — Business Focus, in dem ich erweiterte Kompetenzen in Mediation, Kommunikation und Konfliktmanagement speziell für Unternehmensumgebungen entwickle. Dies ermöglicht es mir, Einzelpersonen, Teams und Unternehmen bei der Bewältigung digitaler Transformation, agiler Arbeit und schnellem Wandel zu unterstützen — durch konstruktiven Dialog, Empathie und nachhaltige Konfliktlösung.",
+        en: "In May 2026, I will complete my Certificate of Advanced Studies (CAS) in Mediation — Business Focus, with advanced mediation, communication and conflict-management competencies tailored to corporate environments. This enables me to support individuals, teams and companies in navigating digital transformation, agile working and rapid change by facilitating constructive dialogue, building empathy, and enabling sustainable conflict resolution.",
+        de: "Im Mai 2026 schließe ich mein Certificate of Advanced Studies (CAS) in Mediation — Business Focus ab, mit erweiterten Kompetenzen in Mediation, Kommunikation und Konfliktmanagement speziell für Unternehmensumgebungen. Dies ermöglicht es mir, Einzelpersonen, Teams und Unternehmen bei der Bewältigung digitaler Transformation, agiler Arbeit und schnellem Wandel zu unterstützen — durch konstruktiven Dialog, Empathie und nachhaltige Konfliktlösung.",
       },
     },
     chairperson: {
@@ -95,7 +95,7 @@ export const translations = {
       en: "Ready to navigate workplace challenges together? I'd love to hear from you.",
       de: "Bereit, gemeinsam die Herausforderungen am Arbeitsplatz zu meistern? Ich freue mich auf Ihre Nachricht.",
     },
-    email: "johanna@workplacemediation.de",
+    email: "info@workplacemediation.de",
   },
   footer: {
     copyright: {
@@ -107,21 +107,17 @@ export const translations = {
     title: { en: "Imprint", de: "Impressum" },
     content: {
       en: `<h3>Information according to § 5 TMG</h3>
-<p>Johanna Jokerst<br/>Workplace Mediation<br/>[Address to be added]<br/>Berlin, Germany</p>
+<p>Johanna Jokerst<br/>Workplace Mediation<br/>Sonnenburger Str. 73<br/>10437 Berlin, Germany</p>
 <h3>Contact</h3>
-<p>Email: johanna@workplacemediation.de</p>
+<p>Email: info@workplacemediation.de</p>
 <h3>Responsible for content according to § 55 Abs. 2 RStV</h3>
-<p>Johanna Jokerst<br/>[Address to be added]</p>
-<h3>Dispute Resolution</h3>
-<p>The European Commission provides a platform for online dispute resolution (OS): <a href="https://ec.europa.eu/consumers/odr" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/consumers/odr</a>.<br/>We are not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board.</p>`,
+<p>Johanna Jokerst<br/>Sonnenburger Str. 73<br/>10437 Berlin</p>`,
       de: `<h3>Angaben gemäß § 5 TMG</h3>
-<p>Johanna Jokerst<br/>Workplace Mediation<br/>[Adresse folgt]<br/>Berlin, Deutschland</p>
+<p>Johanna Jokerst<br/>Workplace Mediation<br/>Sonnenburger Str. 73<br/>10437 Berlin, Deutschland</p>
 <h3>Kontakt</h3>
-<p>E-Mail: johanna@workplacemediation.de</p>
+<p>E-Mail: info@workplacemediation.de</p>
 <h3>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h3>
-<p>Johanna Jokerst<br/>[Adresse folgt]</p>
-<h3>Streitschlichtung</h3>
-<p>Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/consumers/odr</a>.<br/>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>`,
+<p>Johanna Jokerst<br/>Sonnenburger Str. 73<br/>10437 Berlin</p>`,
     },
   },
   privacy: {
@@ -131,7 +127,7 @@ export const translations = {
 <h4>General Information</h4>
 <p>The following notes provide a simple overview of what happens to your personal data when you visit this website. Personal data is any data by which you can be personally identified.</p>
 <h4>Data Collection on This Website</h4>
-<p><strong>Who is responsible for data collection on this website?</strong><br/>Data processing on this website is carried out by the website operator: Johanna Jokerst, johanna@workplacemediation.de</p>
+<p><strong>Who is responsible for data collection on this website?</strong><br/>Data processing on this website is carried out by the website operator: Johanna Jokerst, info@workplacemediation.de</p>
 <p><strong>How do we collect your data?</strong><br/>Your data is collected when you provide it to us, for example by contacting us via email. Other data is collected automatically by our IT systems when you visit the website. This is mainly technical data (e.g., internet browser, operating system, or time of page access).</p>
 <h3>2. Hosting</h3>
 <p>This website is hosted externally. The personal data collected on this website is stored on the servers of the host(s). This may include IP addresses, contact requests, meta and communication data, contract data, contact details, names, website accesses, and other data generated via a website.</p>
@@ -142,7 +138,7 @@ export const translations = {
 <h4>Allgemeine Hinweise</h4>
 <p>Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.</p>
 <h4>Datenerfassung auf dieser Website</h4>
-<p><strong>Wer ist verantwortlich für die Datenerfassung auf dieser Website?</strong><br/>Die Datenverarbeitung auf dieser Website erfolgt durch die Websitebetreiberin: Johanna Jokerst, johanna@workplacemediation.de</p>
+<p><strong>Wer ist verantwortlich für die Datenerfassung auf dieser Website?</strong><br/>Die Datenverarbeitung auf dieser Website erfolgt durch die Websitebetreiberin: Johanna Jokerst, info@workplacemediation.de</p>
 <p><strong>Wie erfassen wir Ihre Daten?</strong><br/>Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen, beispielsweise durch Kontaktaufnahme per E-Mail. Andere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs).</p>
 <h3>2. Hosting</h3>
 <p>Diese Website wird extern gehostet. Die auf dieser Website erfassten personenbezogenen Daten werden auf den Servern des Hosters gespeichert. Hierbei kann es sich u.a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.</p>

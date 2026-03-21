@@ -14,7 +14,7 @@ export function AboutSection() {
           <p className="text-sm font-semibold uppercase tracking-widest text-primary mb-3">
             {t(translations.about.sectionLabel)}
           </p>
-          <h2 className="font-display text-3xl md:text-4xl font-bold text-balance">
+          <h2 className="font-sans text-3xl md:text-4xl font-bold text-balance">
             {t(translations.about.title)}
           </h2>
         </ScrollReveal>
