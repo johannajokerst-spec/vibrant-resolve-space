@@ -107,21 +107,17 @@ export const translations = {
     title: { en: "Imprint", de: "Impressum" },
     content: {
       en: `<h3>Information according to § 5 TMG</h3>
-<p>Johanna Jokerst<br/>Workplace Mediation<br/>[Address to be added]<br/>Berlin, Germany</p>
+<p>Johanna Jokerst<br/>Workplace Mediation<br/>Sonnenburger Str. 73<br/>10437 Berlin, Germany</p>
 <h3>Contact</h3>
-<p>Email: johanna@workplacemediation.de</p>
+<p>Email: info@workplacemediation.de</p>
 <h3>Responsible for content according to § 55 Abs. 2 RStV</h3>
-<p>Johanna Jokerst<br/>[Address to be added]</p>
-<h3>Dispute Resolution</h3>
-<p>The European Commission provides a platform for online dispute resolution (OS): <a href="https://ec.europa.eu/consumers/odr" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/consumers/odr</a>.<br/>We are not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board.</p>`,
+<p>Johanna Jokerst<br/>Sonnenburger Str. 73<br/>10437 Berlin</p>`,
       de: `<h3>Angaben gemäß § 5 TMG</h3>
-<p>Johanna Jokerst<br/>Workplace Mediation<br/>[Adresse folgt]<br/>Berlin, Deutschland</p>
+<p>Johanna Jokerst<br/>Workplace Mediation<br/>Sonnenburger Str. 73<br/>10437 Berlin, Deutschland</p>
 <h3>Kontakt</h3>
-<p>E-Mail: johanna@workplacemediation.de</p>
+<p>E-Mail: info@workplacemediation.de</p>
 <h3>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h3>
-<p>Johanna Jokerst<br/>[Adresse folgt]</p>
-<h3>Streitschlichtung</h3>
-<p>Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/consumers/odr</a>.<br/>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>`,
+<p>Johanna Jokerst<br/>Sonnenburger Str. 73<br/>10437 Berlin</p>`,
     },
   },
   privacy: {
