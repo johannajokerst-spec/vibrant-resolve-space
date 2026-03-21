@@ -22,17 +22,17 @@ export function AboutSection() {
         <div className="mt-10 grid lg:grid-cols-5 gap-12 items-start">
           <div className="lg:col-span-3 space-y-5">
             <ScrollReveal delay={100}>
-              <p className="text-lg leading-relaxed text-muted-foreground text-pretty">
+              <p className="text-base leading-relaxed text-muted-foreground text-pretty">
                 {t(translations.about.p1)}
               </p>
             </ScrollReveal>
             <ScrollReveal delay={180}>
-              <p className="leading-relaxed text-muted-foreground text-pretty">
+              <p className="text-base leading-relaxed text-muted-foreground text-pretty">
                 {t(translations.about.p2)}
               </p>
             </ScrollReveal>
             <ScrollReveal delay={260}>
-              <p className="leading-relaxed text-muted-foreground text-pretty">
+              <p className="text-base leading-relaxed text-muted-foreground text-pretty">
                 {t(translations.about.p3)}
               </p>
             </ScrollReveal>

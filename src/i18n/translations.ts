@@ -38,22 +38,22 @@ export const translations = {
     consultation: {
       title: { en: "Consultation", de: "Beratung" },
       desc: {
-        en: "Workplace Mediation helps startups and tech companies to build voluntary employee representation models that fit your culture and prevent conflicts and escalation effectively.",
-        de: "Workplace Mediation hilft Startups und Technologieunternehmen, freiwillige Mitarbeitervertretungsmodelle aufzubauen, die zu Ihrer Unternehmenskultur passen, und Konflikte sowie Eskalationen effektiv zu verhindern.",
+        en: "I help startups and tech companies design voluntary employee representation models tailored to their culture — preventing conflicts before they escalate and building structures that grow with your team.",
+        de: "Ich helfe Startups und Technologieunternehmen, freiwillige Mitarbeitervertretungsmodelle zu gestalten, die zu ihrer Kultur passen — um Konflikte zu verhindern, bevor sie eskalieren, und Strukturen aufzubauen, die mit dem Team wachsen.",
       },
     },
     mediation: {
       title: { en: "Mediation", de: "Mediation" },
       desc: {
-        en: "In May 2026, I will complete my Certificate of Advanced Studies (CAS) in Mediation — Business Focus, with advanced mediation, communication and conflict-management competencies tailored to corporate environments. This enables me to support individuals, teams and companies in navigating digital transformation, agile working and rapid change by facilitating constructive dialogue, building empathy, and enabling sustainable conflict resolution.",
-        de: "Im Mai 2026 schließe ich mein Certificate of Advanced Studies (CAS) in Mediation — Business Focus ab, mit erweiterten Kompetenzen in Mediation, Kommunikation und Konfliktmanagement speziell für Unternehmensumgebungen. Dies ermöglicht es mir, Einzelpersonen, Teams und Unternehmen bei der Bewältigung digitaler Transformation, agiler Arbeit und schnellem Wandel zu unterstützen — durch konstruktiven Dialog, Empathie und nachhaltige Konfliktlösung.",
+        en: "As a certified mediator (CAS Mediation — Business Focus, completed May 2026), I facilitate constructive dialogue between individuals, teams, and leadership. Whether navigating digital transformation, restructuring, or everyday workplace friction — I help parties find sustainable, mutually supported resolutions.",
+        de: "Als zertifizierte Mediatorin (CAS Mediation — Business Focus, abgeschlossen Mai 2026) moderiere ich konstruktiven Dialog zwischen Einzelpersonen, Teams und Führungskräften. Ob bei digitaler Transformation, Restrukturierung oder alltäglichen Spannungen am Arbeitsplatz — ich helfe den Beteiligten, nachhaltige und gemeinsam getragene Lösungen zu finden.",
       },
     },
     chairperson: {
       title: { en: "Chairperson Services", de: "Vorsitz in Einigungsstellen" },
       desc: {
-        en: "Acting as a neutral chairperson for conciliation boards, ensuring fair, structured, and effective proceedings that lead to workable outcomes for all parties.",
-        de: "Tätigkeit als neutrale Vorsitzende von Einigungsstellen — für faire, strukturierte und wirksame Verfahren, die zu tragfähigen Ergebnissen für alle Beteiligten führen.",
+        en: "I serve as a neutral chairperson for conciliation boards (Einigungsstellen), ensuring fair, structured proceedings that move all parties toward workable outcomes — drawing on my experience from both the employer and employee representation side.",
+        de: "Ich fungiere als neutrale Vorsitzende von Einigungsstellen und sorge für faire, strukturierte Verfahren, die alle Beteiligten zu tragfähigen Ergebnissen führen — gestützt auf meine Erfahrung sowohl auf Arbeitgeber- als auch auf Arbeitnehmerseite.",
       },
     },
   },
