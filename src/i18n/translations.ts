@@ -138,7 +138,7 @@ export const translations = {
 <h4>Allgemeine Hinweise</h4>
 <p>Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.</p>
 <h4>Datenerfassung auf dieser Website</h4>
-<p><strong>Wer ist verantwortlich für die Datenerfassung auf dieser Website?</strong><br/>Die Datenverarbeitung auf dieser Website erfolgt durch die Websitebetreiberin: Johanna Jokerst, johanna@workplacemediation.de</p>
+<p><strong>Wer ist verantwortlich für die Datenerfassung auf dieser Website?</strong><br/>Die Datenverarbeitung auf dieser Website erfolgt durch die Websitebetreiberin: Johanna Jokerst, info@workplacemediation.de</p>
 <p><strong>Wie erfassen wir Ihre Daten?</strong><br/>Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen, beispielsweise durch Kontaktaufnahme per E-Mail. Andere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs).</p>
 <h3>2. Hosting</h3>
 <p>Diese Website wird extern gehostet. Die auf dieser Website erfassten personenbezogenen Daten werden auf den Servern des Hosters gespeichert. Hierbei kann es sich u.a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.</p>
