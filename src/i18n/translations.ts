@@ -45,8 +45,8 @@ export const translations = {
     mediation: {
       title: { en: "Mediation", de: "Mediation" },
       desc: {
-        en: "I am currently undertaking a Certificate of Advanced Studies (CAS) in Mediation — Business Focus, developing advanced mediation, communication and conflict-management competencies tailored to corporate environments. This enables me to support individuals, teams and companies in navigating digital transformation, agile working and rapid change by facilitating constructive dialogue, building empathy, and enabling sustainable conflict resolution.",
-        de: "Ich absolviere derzeit ein Certificate of Advanced Studies (CAS) in Mediation — Business Focus, in dem ich erweiterte Kompetenzen in Mediation, Kommunikation und Konfliktmanagement speziell für Unternehmensumgebungen entwickle. Dies ermöglicht es mir, Einzelpersonen, Teams und Unternehmen bei der Bewältigung digitaler Transformation, agiler Arbeit und schnellem Wandel zu unterstützen — durch konstruktiven Dialog, Empathie und nachhaltige Konfliktlösung.",
+        en: "In May 2026, I will complete my Certificate of Advanced Studies (CAS) in Mediation — Business Focus, with advanced mediation, communication and conflict-management competencies tailored to corporate environments. This enables me to support individuals, teams and companies in navigating digital transformation, agile working and rapid change by facilitating constructive dialogue, building empathy, and enabling sustainable conflict resolution.",
+        de: "Im Mai 2026 schließe ich mein Certificate of Advanced Studies (CAS) in Mediation — Business Focus ab, mit erweiterten Kompetenzen in Mediation, Kommunikation und Konfliktmanagement speziell für Unternehmensumgebungen. Dies ermöglicht es mir, Einzelpersonen, Teams und Unternehmen bei der Bewältigung digitaler Transformation, agiler Arbeit und schnellem Wandel zu unterstützen — durch konstruktiven Dialog, Empathie und nachhaltige Konfliktlösung.",
       },
     },
     chairperson: {
