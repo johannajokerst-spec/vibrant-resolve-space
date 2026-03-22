@@ -29,8 +29,12 @@ export const translations = {
       de: "Durch meine fast 10-jährige Tätigkeit als Unternehmensjuristin in verschiedenen Berliner Tech-Unternehmen, meine eigene Erfahrung mit verschiedenen Formen der Mitarbeitervertretung und das unmittelbare Erleben der komplexen Herausforderungen zwischen Wachstum und Mitbestimmung habe ich eine einzigartige Perspektive auf die besonderen Anforderungen international ausgerichteter Unternehmen gewonnen.",
     },
     p3: {
-      en: "As a people manager, I focus on developing my team and guide them through conflicts by applying mediation techniques.",
-      de: "Als Führungskraft konzentriere ich mich darauf, mein Team weiterzuentwickeln und es durch Konflikte zu begleiten, indem ich Mediationstechniken anwende.",
+      en: "As a people manager, I focus on developing my team and guide them through conflicts by applying mediation techniques. I work in both English and German.",
+      de: "Als Führungskraft konzentriere ich mich darauf, mein Team weiterzuentwickeln und es durch Konflikte zu begleiten, indem ich Mediationstechniken anwende. Ich arbeite auf Deutsch und Englisch.",
+    },
+    p4: {
+      en: "What drew me to mediation is something I experienced firsthand: how much everyone benefits when someone helps you see a different perspective. Understanding each other's point of view makes it possible to get to the core of a conflict and the issues underneath, not just what's visible on the surface. That's where meaningful change happens, and where a different path forward becomes possible.",
+      de: "Was mich zur Mediation gebracht hat, habe ich selbst erlebt: wie sehr alle davon profitieren, wenn jemand hilft, eine andere Perspektive einzunehmen. Gegenseitiges Verständnis macht es möglich, zum Kern eines Konflikts und den dahinterliegenden Themen vorzudringen, nicht nur an der Oberfläche zu bleiben. Dort entsteht echter Wandel, und dort wird ein neuer Weg nach vorne möglich.",
     },
   },
   services: {
