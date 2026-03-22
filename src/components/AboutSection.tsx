@@ -36,6 +36,11 @@ export function AboutSection() {
                 {t(translations.about.p3)}
               </p>
             </ScrollReveal>
+            <ScrollReveal delay={340}>
+              <p className="text-base leading-relaxed text-muted-foreground text-pretty">
+                {t(translations.about.p4)}
+              </p>
+            </ScrollReveal>
           </div>
 
           <div className="lg:col-span-2 space-y-5">
