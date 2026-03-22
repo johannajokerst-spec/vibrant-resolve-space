@@ -25,8 +25,8 @@ export const translations = {
       de: "Bei Workplace Mediation bin ich darauf spezialisiert, Arbeitnehmer und Arbeitgeber durch die Herausforderungen von Konflikten und Mitbestimmung am Arbeitsplatz zu begleiten. Mit Sorgfalt und Expertise. Im Vordergrund steht Verständnis, Zusammenarbeit und der Schutz aller Interessen in einem wertschätzenden Umfeld.",
     },
     p2: {
-      en: "Working as an in-house lawyer for nearly 10 years in different tech companies in Berlin, being part of employee representation in different forms myself and experiencing first hand the complex struggles between growth and participation — I have gained a unique perspective on the very specific challenges international focused companies face in this space.",
-      de: "Durch meine fast 10-jährige Tätigkeit als Unternehmensjuristin in verschiedenen Berliner Tech-Unternehmen, meine eigene Erfahrung mit verschiedenen Formen der Mitarbeitervertretung und das unmittelbare Erleben der komplexen Herausforderungen zwischen Wachstum und Mitbestimmung — habe ich eine einzigartige Perspektive auf die besonderen Anforderungen international ausgerichteter Unternehmen gewonnen.",
+      en: "Working as an in-house lawyer for nearly 10 years in different tech companies in Berlin, being part of employee representation in different forms myself and experiencing first hand the complex struggles between growth and participation, I have gained a unique perspective on the very specific challenges international focused companies face in this space.",
+      de: "Durch meine fast 10-jährige Tätigkeit als Unternehmensjuristin in verschiedenen Berliner Tech-Unternehmen, meine eigene Erfahrung mit verschiedenen Formen der Mitarbeitervertretung und das unmittelbare Erleben der komplexen Herausforderungen zwischen Wachstum und Mitbestimmung habe ich eine einzigartige Perspektive auf die besonderen Anforderungen international ausgerichteter Unternehmen gewonnen.",
     },
     p3: {
       en: "As a people manager, I focus on developing my team and guide them through conflicts by applying mediation techniques.",
