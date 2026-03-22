@@ -96,7 +96,7 @@ export const translations = {
   contact: {
     sectionLabel: { en: "Get in Touch", de: "Kontakt" },
     text: {
-      en: "Ready to navigate workplace challenges together? I'd love to hear from you.",
+      en: "Ready to navigate workplace challenges together?\nI'd love to hear from you.",
       de: "Bereit, gemeinsam die Herausforderungen am Arbeitsplatz zu meistern? Ich freue mich auf Ihre Nachricht.",
     },
     email: "info@workplacemediation.de",
