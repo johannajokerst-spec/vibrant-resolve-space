@@ -45,8 +45,8 @@ export const translations = {
     mediation: {
       title: { en: "Mediation", de: "Mediation" },
       desc: {
-        en: "As a certified mediator (CAS Mediation — Business Focus, completed May 2026), I facilitate constructive dialogue between individuals, teams, and leadership. Whether navigating digital transformation, restructuring, or everyday workplace friction — I help parties find sustainable, mutually supported resolutions.",
-        de: "Als zertifizierte Mediatorin (CAS Mediation — Business Focus, abgeschlossen Mai 2026) moderiere ich konstruktiven Dialog zwischen Einzelpersonen, Teams und Führungskräften. Ob bei digitaler Transformation, Restrukturierung oder alltäglichen Spannungen am Arbeitsplatz — ich helfe den Beteiligten, nachhaltige und gemeinsam getragene Lösungen zu finden.",
+        en: "As a certified mediator (CAS Mediation, Business Focus, completed May 2026), I facilitate constructive dialogue between individuals, teams, and leadership. Whether navigating digital transformation, restructuring, or everyday workplace friction, I help parties find sustainable, mutually supported resolutions.",
+        de: "Als zertifizierte Mediatorin (CAS Mediation, Business Focus, abgeschlossen Mai 2026) moderiere ich konstruktiven Dialog zwischen Einzelpersonen, Teams und Führungskräften. Ob bei digitaler Transformation, Restrukturierung oder alltäglichen Spannungen am Arbeitsplatz: Ich helfe den Beteiligten, nachhaltige und gemeinsam getragene Lösungen zu finden.",
       },
     },
     chairperson: {
