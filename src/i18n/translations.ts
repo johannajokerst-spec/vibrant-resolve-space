@@ -13,7 +13,7 @@ export const translations = {
     title: { en: "Workplace\nMediation", de: "Workplace\nMediation" },
     subtitle: {
       en: "Guiding employees and employers through the challenges of workplace conflict with care, clarity, and expertise.",
-      de: "Ich begleite Arbeitnehmer und Arbeitgeber durch die Herausforderungen von Konflikten am Arbeitsplatz — mit Sorgfalt, Klarheit und Expertise.",
+      de: "Ich begleite Arbeitnehmer und Arbeitgeber durch die Herausforderungen von Konflikten am Arbeitsplatz. Mit Sorgfalt, Klarheit und Expertise.",
     },
     cta: { en: "Get in Touch", de: "Kontakt aufnehmen" },
   },
@@ -22,11 +22,11 @@ export const translations = {
     title: { en: "Johanna Jokerst", de: "Johanna Jokerst" },
     p1: {
       en: "At Workplace Mediation, I specialize in guiding employees and employers through the challenges of workplace conflict and representation with care and expertise. The priority is to ensure understanding, cooperation, and protection of all interests in a caring environment.",
-      de: "Bei Workplace Mediation bin ich darauf spezialisiert, Arbeitnehmer und Arbeitgeber durch die Herausforderungen von Konflikten und Mitbestimmung am Arbeitsplatz zu begleiten — mit Sorgfalt und Expertise. Im Vordergrund steht Verständnis, Zusammenarbeit und der Schutz aller Interessen in einem wertschätzenden Umfeld.",
+      de: "Bei Workplace Mediation bin ich darauf spezialisiert, Arbeitnehmer und Arbeitgeber durch die Herausforderungen von Konflikten und Mitbestimmung am Arbeitsplatz zu begleiten. Mit Sorgfalt und Expertise. Im Vordergrund steht Verständnis, Zusammenarbeit und der Schutz aller Interessen in einem wertschätzenden Umfeld.",
     },
     p2: {
-      en: "Working as an in-house lawyer for nearly 10 years in different tech companies in Berlin, being part of employee representation in different forms myself and experiencing first hand the complex struggles between growth and participation — I have gained a unique perspective on the very specific challenges international focused companies face in this space.",
-      de: "Durch meine fast 10-jährige Tätigkeit als Unternehmensjuristin in verschiedenen Berliner Tech-Unternehmen, meine eigene Erfahrung mit verschiedenen Formen der Mitarbeitervertretung und das unmittelbare Erleben der komplexen Herausforderungen zwischen Wachstum und Mitbestimmung — habe ich eine einzigartige Perspektive auf die besonderen Anforderungen international ausgerichteter Unternehmen gewonnen.",
+      en: "Working as an in-house lawyer for nearly 10 years in different tech companies in Berlin, being part of employee representation in different forms myself and experiencing first hand the complex struggles between growth and participation, I have gained a unique perspective on the very specific challenges international focused companies face in this space.",
+      de: "Durch meine fast 10-jährige Tätigkeit als Unternehmensjuristin in verschiedenen Berliner Tech-Unternehmen, meine eigene Erfahrung mit verschiedenen Formen der Mitarbeitervertretung und das unmittelbare Erleben der komplexen Herausforderungen zwischen Wachstum und Mitbestimmung habe ich eine einzigartige Perspektive auf die besonderen Anforderungen international ausgerichteter Unternehmen gewonnen.",
     },
     p3: {
       en: "As a people manager, I focus on developing my team and guide them through conflicts by applying mediation techniques.",
@@ -38,22 +38,22 @@ export const translations = {
     consultation: {
       title: { en: "Consultation", de: "Beratung" },
       desc: {
-        en: "I help startups and tech companies design voluntary employee representation models tailored to their culture — preventing conflicts before they escalate and building structures that grow with your team.",
-        de: "Ich helfe Startups und Technologieunternehmen, freiwillige Mitarbeitervertretungsmodelle zu gestalten, die zu ihrer Kultur passen — um Konflikte zu verhindern, bevor sie eskalieren, und Strukturen aufzubauen, die mit dem Team wachsen.",
+        en: "I help startups and tech companies design voluntary employee representation models tailored to their culture. This means preventing conflicts before they escalate and building structures that grow with your team.",
+        de: "Ich helfe Startups und Technologieunternehmen, freiwillige Mitarbeitervertretungsmodelle zu gestalten, die zu ihrer Kultur passen. Das bedeutet, Konflikte zu verhindern, bevor sie eskalieren, und Strukturen aufzubauen, die mit dem Team wachsen.",
       },
     },
     mediation: {
       title: { en: "Mediation", de: "Mediation" },
       desc: {
-        en: "As a certified mediator (CAS Mediation — Business Focus, completed May 2026), I facilitate constructive dialogue between individuals, teams, and leadership. Whether navigating digital transformation, restructuring, or everyday workplace friction — I help parties find sustainable, mutually supported resolutions.",
-        de: "Als zertifizierte Mediatorin (CAS Mediation — Business Focus, abgeschlossen Mai 2026) moderiere ich konstruktiven Dialog zwischen Einzelpersonen, Teams und Führungskräften. Ob bei digitaler Transformation, Restrukturierung oder alltäglichen Spannungen am Arbeitsplatz — ich helfe den Beteiligten, nachhaltige und gemeinsam getragene Lösungen zu finden.",
+        en: "As a certified mediator (CAS Mediation, Business Focus, completed May 2026), I facilitate constructive dialogue between individuals, teams, and leadership. Whether navigating digital transformation, restructuring, or everyday workplace friction, I help parties find sustainable, mutually supported resolutions.",
+        de: "Als zertifizierte Mediatorin (CAS Mediation, Business Focus, abgeschlossen Mai 2026) moderiere ich konstruktiven Dialog zwischen Einzelpersonen, Teams und Führungskräften. Ob bei digitaler Transformation, Restrukturierung oder alltäglichen Spannungen am Arbeitsplatz: Ich helfe den Beteiligten, nachhaltige und gemeinsam getragene Lösungen zu finden.",
       },
     },
     chairperson: {
       title: { en: "Chairperson Services", de: "Vorsitz in Einigungsstellen" },
       desc: {
-        en: "I serve as a neutral chairperson for conciliation boards (Einigungsstellen), ensuring fair, structured proceedings that move all parties toward workable outcomes — drawing on my experience from both the employer and employee representation side.",
-        de: "Ich fungiere als neutrale Vorsitzende von Einigungsstellen und sorge für faire, strukturierte Verfahren, die alle Beteiligten zu tragfähigen Ergebnissen führen — gestützt auf meine Erfahrung sowohl auf Arbeitgeber- als auch auf Arbeitnehmerseite.",
+        en: "I serve as a neutral chairperson for conciliation boards (Einigungsstellen), ensuring fair, structured proceedings that move all parties toward workable outcomes. I draw on my experience from both the employer and employee representation side.",
+        de: "Ich fungiere als neutrale Vorsitzende von Einigungsstellen und sorge für faire, strukturierte Verfahren, die alle Beteiligten zu tragfähigen Ergebnissen führen. Dabei stütze ich mich auf meine Erfahrung sowohl auf Arbeitgeber- als auch auf Arbeitnehmerseite.",
       },
     },
   },
