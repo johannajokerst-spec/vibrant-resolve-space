@@ -52,8 +52,8 @@ export const translations = {
     chairperson: {
       title: { en: "Chairperson Services", de: "Vorsitz in Einigungsstellen" },
       desc: {
-        en: "I serve as a neutral chairperson for conciliation boards (Einigungsstellen), ensuring fair, structured proceedings that move all parties toward workable outcomes — drawing on my experience from both the employer and employee representation side.",
-        de: "Ich fungiere als neutrale Vorsitzende von Einigungsstellen und sorge für faire, strukturierte Verfahren, die alle Beteiligten zu tragfähigen Ergebnissen führen — gestützt auf meine Erfahrung sowohl auf Arbeitgeber- als auch auf Arbeitnehmerseite.",
+        en: "I serve as a neutral chairperson for conciliation boards (Einigungsstellen), ensuring fair, structured proceedings that move all parties toward workable outcomes. I draw on my experience from both the employer and employee representation side.",
+        de: "Ich fungiere als neutrale Vorsitzende von Einigungsstellen und sorge für faire, strukturierte Verfahren, die alle Beteiligten zu tragfähigen Ergebnissen führen. Dabei stütze ich mich auf meine Erfahrung sowohl auf Arbeitgeber- als auch auf Arbeitnehmerseite.",
       },
     },
   },
