@@ -13,7 +13,7 @@ export const translations = {
     title: { en: "Workplace\nMediation", de: "Workplace\nMediation" },
     subtitle: {
       en: "Guiding employees and employers through the challenges of workplace conflict with care, clarity, and expertise.",
-      de: "Ich begleite Arbeitnehmer und Arbeitgeber durch die Herausforderungen von Konflikten am Arbeitsplatz — mit Sorgfalt, Klarheit und Expertise.",
+      de: "Ich begleite Arbeitnehmer und Arbeitgeber durch die Herausforderungen von Konflikten am Arbeitsplatz. Mit Sorgfalt, Klarheit und Expertise.",
     },
     cta: { en: "Get in Touch", de: "Kontakt aufnehmen" },
   },
