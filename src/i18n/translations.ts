@@ -38,8 +38,8 @@ export const translations = {
     consultation: {
       title: { en: "Consultation", de: "Beratung" },
       desc: {
-        en: "I help startups and tech companies design voluntary employee representation models tailored to their culture — preventing conflicts before they escalate and building structures that grow with your team.",
-        de: "Ich helfe Startups und Technologieunternehmen, freiwillige Mitarbeitervertretungsmodelle zu gestalten, die zu ihrer Kultur passen — um Konflikte zu verhindern, bevor sie eskalieren, und Strukturen aufzubauen, die mit dem Team wachsen.",
+        en: "I help startups and tech companies design voluntary employee representation models tailored to their culture. This means preventing conflicts before they escalate and building structures that grow with your team.",
+        de: "Ich helfe Startups und Technologieunternehmen, freiwillige Mitarbeitervertretungsmodelle zu gestalten, die zu ihrer Kultur passen. Das bedeutet, Konflikte zu verhindern, bevor sie eskalieren, und Strukturen aufzubauen, die mit dem Team wachsen.",
       },
     },
     mediation: {
