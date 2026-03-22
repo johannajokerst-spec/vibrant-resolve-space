@@ -22,7 +22,7 @@ export const translations = {
     title: { en: "Johanna Jokerst", de: "Johanna Jokerst" },
     p1: {
       en: "At Workplace Mediation, I specialize in guiding employees and employers through the challenges of workplace conflict and representation with care and expertise. The priority is to ensure understanding, cooperation, and protection of all interests in a caring environment.",
-      de: "Bei Workplace Mediation bin ich darauf spezialisiert, Arbeitnehmer und Arbeitgeber durch die Herausforderungen von Konflikten und Mitbestimmung am Arbeitsplatz zu begleiten — mit Sorgfalt und Expertise. Im Vordergrund steht Verständnis, Zusammenarbeit und der Schutz aller Interessen in einem wertschätzenden Umfeld.",
+      de: "Bei Workplace Mediation bin ich darauf spezialisiert, Arbeitnehmer und Arbeitgeber durch die Herausforderungen von Konflikten und Mitbestimmung am Arbeitsplatz zu begleiten. Mit Sorgfalt und Expertise. Im Vordergrund steht Verständnis, Zusammenarbeit und der Schutz aller Interessen in einem wertschätzenden Umfeld.",
     },
     p2: {
       en: "Working as an in-house lawyer for nearly 10 years in different tech companies in Berlin, being part of employee representation in different forms myself and experiencing first hand the complex struggles between growth and participation — I have gained a unique perspective on the very specific challenges international focused companies face in this space.",
