@@ -18,7 +18,7 @@ export function ContactSection() {
           </h2>
         </ScrollReveal>
         <ScrollReveal delay={100}>
-          <p className="mt-5 text-lg text-muted-foreground leading-relaxed">
+          <p className="mt-5 text-lg text-muted-foreground leading-relaxed whitespace-pre-line">
             {t(translations.contact.text)}
           </p>
         </ScrollReveal>
