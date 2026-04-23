@@ -54,10 +54,13 @@ export const translations = {
       },
     },
     chairperson: {
-      title: { en: "Chairperson Services", de: "Vorsitz in Einigungsstellen" },
+      title: {
+        en: "Chairperson for Voluntary Models",
+        de: "Vorsitz für freiwillige Mitbestimmungsmodelle",
+      },
       desc: {
-        en: "I serve as a neutral chairperson for conciliation boards (Einigungsstellen), ensuring fair, structured proceedings that move all parties toward workable outcomes. I draw on my experience from both the employer and employee representation side.",
-        de: "Ich fungiere als neutrale Vorsitzende von Einigungsstellen und sorge für faire, strukturierte Verfahren, die alle Beteiligten zu tragfähigen Ergebnissen führen. Dabei stütze ich mich auf meine Erfahrung sowohl auf Arbeitgeber- als auch auf Arbeitnehmerseite.",
+        en: "I serve as a neutral chairperson for voluntary employee representation models, guiding meetings and negotiations between elected representatives and leadership. My role is to keep proceedings fair and structured, hold space for every voice, and help both sides reach outcomes they can genuinely stand behind.",
+        de: "Ich übernehme den neutralen Vorsitz für freiwillige Mitbestimmungsmodelle und begleite Sitzungen und Verhandlungen zwischen gewählten Vertretungen und Führungsebene. Meine Aufgabe ist es, faire und strukturierte Abläufe zu sichern, allen Stimmen Raum zu geben und beide Seiten zu Ergebnissen zu führen, die sie wirklich mittragen können.",
       },
     },
   },
