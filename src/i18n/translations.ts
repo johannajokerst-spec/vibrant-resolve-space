@@ -25,8 +25,8 @@ export const translations = {
       de: "Bei Workplace Mediation bin ich darauf spezialisiert, Arbeitnehmer und Arbeitgeber durch die Herausforderungen von Konflikten und Mitbestimmung am Arbeitsplatz zu begleiten. Mit Sorgfalt und Expertise. Im Vordergrund steht Verständnis, Zusammenarbeit und der Schutz aller Interessen in einem wertschätzenden Umfeld.",
     },
     p2: {
-      en: "Working as an in-house lawyer for 10 years in different tech companies in Berlin, being part of employee representation in different forms myself and experiencing first hand the complex struggles between growth and participation, I have gained a unique perspective on the very specific challenges international focused companies face in this space.",
-      de: "Durch meine 10-jährige Tätigkeit als Unternehmensjuristin in verschiedenen Berliner Tech-Unternehmen, meine eigene Erfahrung mit verschiedenen Formen der Mitarbeitervertretung und das unmittelbare Erleben der komplexen Herausforderungen zwischen Wachstum und Mitbestimmung habe ich eine einzigartige Perspektive auf die besonderen Anforderungen international ausgerichteter Unternehmen gewonnen.",
+      en: "For 10 years I have worked inside different tech companies in Berlin, and just as importantly, I have been an active member of our employee representation group. Sitting on both sides of the table, as a legal professional and as an elected representative of my colleagues, has shaped how I understand workplace conflict. I know the pressures leadership faces, and I know what it feels like to advocate for a team. That dual perspective is the foundation of how I work today: independent, balanced, and genuinely committed to all parties at the table.",
+      de: "Seit 10 Jahren arbeite ich in verschiedenen Berliner Tech-Unternehmen, und ebenso wichtig: Ich war aktives Mitglied unserer Mitarbeitervertretung. Beide Seiten des Tisches zu kennen, als Juristin und als gewählte Vertreterin meiner Kolleginnen und Kollegen, prägt mein Verständnis von Konflikten am Arbeitsplatz. Ich kenne den Druck, dem Führungskräfte ausgesetzt sind, und ich weiß, wie es sich anfühlt, für ein Team einzutreten. Diese doppelte Perspektive ist die Grundlage meiner heutigen Arbeit: unabhängig, ausgewogen und allen Beteiligten gleichermaßen verpflichtet.",
     },
     p3: {
       en: "As a people manager, I focus on developing my team and guide them through conflicts by applying mediation techniques. I work in both English and German, and I'm available in person in Berlin or remotely via Zoom.",
@@ -54,10 +54,13 @@ export const translations = {
       },
     },
     chairperson: {
-      title: { en: "Chairperson Services", de: "Vorsitz in Einigungsstellen" },
+      title: {
+        en: "Chairperson for Voluntary Models",
+        de: "Vorsitz für freiwillige Mitbestimmungsmodelle",
+      },
       desc: {
-        en: "I serve as a neutral chairperson for conciliation boards (Einigungsstellen), ensuring fair, structured proceedings that move all parties toward workable outcomes. I draw on my experience from both the employer and employee representation side.",
-        de: "Ich fungiere als neutrale Vorsitzende von Einigungsstellen und sorge für faire, strukturierte Verfahren, die alle Beteiligten zu tragfähigen Ergebnissen führen. Dabei stütze ich mich auf meine Erfahrung sowohl auf Arbeitgeber- als auch auf Arbeitnehmerseite.",
+        en: "I serve as a neutral chairperson for voluntary employee representation models, guiding meetings and negotiations between elected representatives and leadership. My role is to keep proceedings fair and structured, hold space for every voice, and help both sides reach outcomes they can genuinely stand behind.",
+        de: "Ich übernehme den neutralen Vorsitz für freiwillige Mitbestimmungsmodelle und begleite Sitzungen und Verhandlungen zwischen gewählten Vertretungen und Führungsebene. Meine Aufgabe ist es, faire und strukturierte Abläufe zu sichern, allen Stimmen Raum zu geben und beide Seiten zu Ergebnissen zu führen, die sie wirklich mittragen können.",
       },
     },
   },
